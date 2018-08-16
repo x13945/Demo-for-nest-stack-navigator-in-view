@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-microsoft-contrib",
+        "tslint-config-prettier"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-relative-imports": false,
+        "mocha-no-side-effect-code": false,
+        "no-console": false,
+        "import-name": false
+    },
+    "rulesDirectory": []
+}
